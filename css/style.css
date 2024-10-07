@@ -1,0 +1,34 @@
+:root {
+	--white: white;
+    --light-black: #212529;
+	--black: black;
+    --light-grey: #F8F9FA;
+    --grey: #6C757D;
+    --green: #198754;
+    --blue: #0D6EFD;
+    --light-blue: #0DCAF0;
+    --red: #DC3545;
+    --yellow: #FFC107;
+}
+
+/* RESET RULES  */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: currentColor;
+	text-decoration: none;
+}
+
+ul,
+ol {
+	list-style: none;
+}
+
+img {
+	max-width: 100%;
+}
