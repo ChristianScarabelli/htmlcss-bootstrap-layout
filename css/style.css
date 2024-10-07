@@ -35,4 +35,6 @@ img {
 
 /* LAYOUT  */
 
-.light
+.middle {
+    padding: 25px 0px 25px 0px;
+}
